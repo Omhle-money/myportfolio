@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "myportfolio",
+    "description": "",
+    "home_page_url": "https://omhle-money.github.io/myportfolio",
+    "feed_url": "https://omhle-money.github.io/myportfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Omhle Ntsebeza"
+    },
+    "items": [
+        {
+            "id": "https://omhle-money.github.io/myportfolio/coding.html",
+            "url": "https://omhle-money.github.io/myportfolio/coding.html",
+            "title": "Coding",
+            "content_html": "<figure class=\"post__image\"><img  src=\"https://omhle-money.github.io/myportfolio/media/posts/2/Screenshot-2024-10-17-090533.png\" alt=\"\" width=\"398\" height=\"428\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-10-17-090533-xs.png 640w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-10-17-090533-sm.png 768w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-10-17-090533-md.png 1024w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-10-17-090533-lg.png 1366w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-10-17-090533-xl.png 1600w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-10-17-090533-2xl.png 1920w\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://omhle-money.github.io/myportfolio/media/posts/2/Screenshot-2024-02-01-093553.png\" alt=\"\" width=\"1917\" height=\"1014\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-02-01-093553-xs.png 640w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-02-01-093553-sm.png 768w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-02-01-093553-md.png 1024w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-02-01-093553-lg.png 1366w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-02-01-093553-xl.png 1600w ,https://omhle-money.github.io/myportfolio/media/posts/2/responsive/Screenshot-2024-02-01-093553-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Omhle Ntsebeza"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-17T09:30:18+02:00",
+            "date_modified": "2024-10-17T09:35:32+02:00"
+        },
+        {
+            "id": "https://omhle-money.github.io/myportfolio/my-portfolio.html",
+            "url": "https://omhle-money.github.io/myportfolio/my-portfolio.html",
+            "title": "Powerpoints  ",
+            "content_html": "<figure class=\"post__image\">  <img  src=\"https://omhle-money.github.io/myportfolio/media/posts/1/Screenshot-2024-10-17-092706.png\" alt=\"\" width=\"1499\" height=\"860\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://omhle-money.github.io/myportfolio/media/posts/1/responsive/Screenshot-2024-10-17-092706-xs.png 640w ,https://omhle-money.github.io/myportfolio/media/posts/1/responsive/Screenshot-2024-10-17-092706-sm.png 768w ,https://omhle-money.github.io/myportfolio/media/posts/1/responsive/Screenshot-2024-10-17-092706-md.png 1024w ,https://omhle-money.github.io/myportfolio/media/posts/1/responsive/Screenshot-2024-10-17-092706-lg.png 1366w ,https://omhle-money.github.io/myportfolio/media/posts/1/responsive/Screenshot-2024-10-17-092706-xl.png 1600w ,https://omhle-money.github.io/myportfolio/media/posts/1/responsive/Screenshot-2024-10-17-092706-2xl.png 1920w\"></figure>     <figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://omhle-money.github.io/myportfolio/media/posts/1//Screenshot-2024-02-29-090123.png\" alt=\"\" width=\"252\" height=\"523\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-090123-xs.png 640w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-090123-sm.png 768w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-090123-md.png 1024w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-090123-lg.png 1366w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-090123-xl.png 1600w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-090123-2xl.png 1920w\"></figure>             <figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://omhle-money.github.io/myportfolio/media/posts/1//Screenshot-2024-02-29-091024.png\" alt=\"\" width=\"348\" height=\"522\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-091024-xs.png 640w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-091024-sm.png 768w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-091024-md.png 1024w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-091024-lg.png 1366w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-091024-xl.png 1600w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-02-29-091024-2xl.png 1920w\"></figure>\n<p>             </p>\n<figure class=\"post__image\">           <img loading=\"lazy\"  src=\"https://omhle-money.github.io/myportfolio/media/posts/1//Screenshot-2024-03-14-083105.png\" alt=\"\" width=\"587\" height=\"260\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-03-14-083105-xs.png 640w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-03-14-083105-sm.png 768w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-03-14-083105-md.png 1024w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-03-14-083105-lg.png 1366w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-03-14-083105-xl.png 1600w ,https://omhle-money.github.io/myportfolio/media/posts/1//responsive/Screenshot-2024-03-14-083105-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Omhle Ntsebeza"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-17T09:12:27+02:00",
+            "date_modified": "2024-10-17T09:32:14+02:00"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://omhle-money.github.io/myportfolio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://omhle-money.github.io/myportfolio/</loc>
+</url>
+<url>
+<loc>https://omhle-money.github.io/myportfolio/coding-2.html</loc>
+<lastmod>2024-10-24T08:31:57+02:00</lastmod>
+</url>
+<url>
+<loc>https://omhle-money.github.io/myportfolio/coding.html</loc>
+<lastmod>2024-10-17T09:35:32+02:00</lastmod>
+<image:image>
+<image:loc>https://omhle-money.github.io/myportfolio/media/posts/2/Screenshot-2024-10-17-090533.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omhle-money.github.io/myportfolio/media/posts/2/Screenshot-2024-02-01-093553.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://omhle-money.github.io/myportfolio/my-portfolio.html</loc>
+<lastmod>2024-10-17T09:32:14+02:00</lastmod>
+<image:image>
+<image:loc>https://omhle-money.github.io/myportfolio/media/posts/1/Screenshot-2024-10-17-092706.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omhle-money.github.io/myportfolio/media/posts/1//Screenshot-2024-02-29-090123.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omhle-money.github.io/myportfolio/media/posts/1//Screenshot-2024-02-29-091024.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://omhle-money.github.io/myportfolio/media/posts/1//Screenshot-2024-03-14-083105.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://omhle-money.github.io/myportfolio/powerpoint.html</loc>
+<lastmod>2024-10-24T08:27:04+02:00</lastmod>
+</url>
+</urlset>
